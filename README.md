@@ -2,16 +2,6 @@
 
 The focus of this app is to build a single-page editor that runs on the browser. The application can also run offline.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-
-### Prerequisites
-
-
-### Installing
-
-
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -21,6 +11,12 @@ These instructions will get you a copy of the project up and running on your loc
 ## Deployed Link
 
 * [See Live Site](#)
+
+# Screenshots and Gif
+
+![]()
+
+![]()
 
 ## Authors
 
