@@ -7,7 +7,13 @@ The focus of this app is to build a single-page editor that runs on the browser.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Webpack](https://www.npmjs.com/package/webpack)
+* [Express](https://www.npmjs.com/package/express)
+* [@babel/core](https://www.npmjs.com/package/@babel/core)
+* [style-loader](https://www.npmjs.com/package/style-loader)
+* [webpack](https://www.npmjs.com/package/webpack)
+* [workbox-webpack-plugin](https://www.npmjs.com/package/workbox-webpack-plugin)
+
+See package.json for the full dependency listing.
 
 ## Deployed Link
 
